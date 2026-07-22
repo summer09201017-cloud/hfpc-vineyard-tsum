@@ -1,0 +1,13 @@
+{
+  "name": "葡萄園的工人・恩典一樣",
+  "short_name": "葡萄園工人",
+  "description": "連起同款的工人召進葡萄園——黃昏發工錢,後來的也得一樣!(太20,和合本)",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#241a30",
+  "theme_color": "#5a3d78",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
